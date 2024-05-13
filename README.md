@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Pavneet 
-I'm a final semester Computer Programming student (CPP) at Seneca Polytechnic.
+I'm a final semester Computer Programming student at Seneca Polytechnic.
 - 💼 I’m looking for Fall 2024 Internships
 - 🌱 I’m currently learning R Programming
 - 📫 How to reach me: [mailpavneethere@gmail.com](mailto:mailpavneethere@gmail.com)
