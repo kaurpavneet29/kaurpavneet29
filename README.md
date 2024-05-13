@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Pavneet 
 I'm a final semester Computer Programming student (CPP) at Seneca Polytechnic.
-- 💼 I’m currently looking for Fall 2024 Internships.
+- 💼 I’m looking for Fall 2024 Internships
 - 🌱 I’m currently learning R Programming
 - 📫 How to reach me: [mailpavneethere@gmail.com](mailto:mailpavneethere@gmail.com)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm passionate about data analysis and turning raw data into stories.
+- ⚡ Fun fact: I'm passionate about data analysis and turning raw data into stories
 
 ### 🔧 Technical Skills
 
@@ -27,6 +27,3 @@ I'm a final semester Computer Programming student (CPP) at Seneca Polytechnic.
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kaurpavneet29/)
 - [Instagram](https://www.instagram.com/kaurpavneet29/)
-
-
- 
