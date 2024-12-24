@@ -1,10 +1,9 @@
 ### Hi there 👋, I'm Pavneet 
-I'm a final semester Computer Programming student at Seneca Polytechnic.
-- 💼 I’m looking for Fall 2024 Internships
-- 🌱 I’m currently learning R Programming
-- 📫 How to reach me: [mailpavneethere@gmail.com](mailto:mailpavneethere@gmail.com)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm passionate about data analysis and turning raw data into stories
+- 💻 I’m a Computer Programming graduate from Seneca Polytechnic looking for job opportunities.    
+- 🌱 Currently learning Microsoft Fabric to enhance my data analytics and integration skills.  
+- 📫 Reach me at: mailpavneethere@gmail.com  
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I love turning raw data into meaningful stories through analysis!
 
 ### 🔧 Technical Skills
 
